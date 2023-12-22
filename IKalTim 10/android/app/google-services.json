@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "807661997536",
+    "project_id": "ikaltim-c3d8d",
+    "storage_bucket": "ikaltim-c3d8d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:807661997536:android:c35fbd823d7131fc29ef85",
+        "android_client_info": {
+          "package_name": "com.ikaltim"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTF4SPcpKDvBeAHcxRBznmOqxzq8TOvKU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
